@@ -331,6 +331,18 @@ This project is licensed under the **MIT License** — see [LICENSE](LICENSE) fo
 
 ---
 
+## Credits
+
+This tool was **planned, designed, and crafted by [magician slime](https://github.com/magicianKaif)** — including the full architecture, feature set, scan phases, and bug reports.
+
+The code was built with the assistance of **[Claude AI](https://claude.ai)** (by Anthropic), which helped translate the ideas and design into working Python.
+
+> _"The brain behind it is human. The hands that typed it had a little AI help."_
+
+---
+
 <p align="center">
-  Made with 🧙 by <a href="https://github.com/magicianKaif">magician slime</a>
+  Designed by 🧙 <a href="https://github.com/magicianKaif">magician slime</a>
+  &nbsp;•&nbsp;
+  Built with the help of <a href="https://claude.ai">Claude AI</a>
 </p>
